@@ -5,13 +5,13 @@
 Make your eyes more comfortable.
 
 HTML example:
-![](html.png)
+<img src="https://github.com/Sir0xb/sir0xb-dark-syntax/raw/master/html.png" width="500" />
 
 Javascript example:
-![](js.png)
+<img src="https://github.com/Sir0xb/sir0xb-dark-syntax/raw/master/js.png" width="500" />
 
 Java example:
-![](java.png)
+<img src="https://github.com/Sir0xb/sir0xb-dark-syntax/raw/master/java.png" width="500" />
 
 ## Install
 
