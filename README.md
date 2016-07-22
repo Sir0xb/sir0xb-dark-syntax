@@ -4,13 +4,13 @@
 
 Make your eyes more comfortable.
 
-HTML example:
+HTML example:<br>
 <img src="https://github.com/Sir0xb/sir0xb-dark-syntax/raw/master/html.png" width="500" />
 
-Javascript example:
+Javascript example:<br>
 <img src="https://github.com/Sir0xb/sir0xb-dark-syntax/raw/master/js.png" width="500" />
 
-Java example:
+Java example:<br>
 <img src="https://github.com/Sir0xb/sir0xb-dark-syntax/raw/master/java.png" width="500" />
 
 ## Install
